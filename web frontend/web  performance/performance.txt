@@ -1,0 +1,227 @@
+//comment
+//link
+//function and rank(for watch five star is the higest grade)
+
+浅谈移动前端的最佳实践
+http://www.cnblogs.com/yexiaochai/p/4219523.html
+rank:***
+
+轻webapp框架blade
+https://github.com/yexiaochai/cssui
+rank:***
+
+前端网站
+http://www.w3cfuns.com/
+rank:***
+
+Grunt 新手一日入门
+http://yujiangshui.com/grunt-basic-tutorial/
+rank:*
+
+web前端方面的优秀RSS地址
+http://www.oschina.net/question/107336_52880
+rank:**
+
+10 Free JavaScript Books
+http://sixrevisions.com/javascript/free-javascript-books/
+rank:****
+
+手持设备点击响应速度，鼠标事件与touch事件的那些事
+http://www.cnblogs.com/yexiaochai/archive/2013/10/19/3377900.html
+rank:***
+
+javascript analysis
+http://segmentfault.com/blog/trigkit4
+rank:*
+
+GitHub上整理的一些工具
+http://segmentfault.com/q/1010000002404545
+rank:**
+
+前端之美：GitHub前端工具整理汇总
+http://blog.jobbole.com/34860/
+rank:***
+
+前端开发人员都在关注的 GitHub 资源
+http://www.yyyweb.com/3427.html
+rank:**
+
+如何面试前端工程师？
+http://www.zhihu.com/question/19568008
+rank:**
+
+维护方便的轻量级UIKIT前端框架
+http://www.shejidaren.com/uikit-front-end-framework.html
+rank:**
+
+响应式网页设计简单入门
+http://www.cnblogs.com/Wayou/p/responsive_design_step_by_step.html
+rank:**
+
+es5 feature introduce
+http://www.nczonline.net/index.html
+rank:*****
+
+成为一名优秀的Web前端开发者
+http://www.infoq.com/cn/news/2015/08/great-front-end-developer
+rank:***
+
+响应式WEB设计
+http://www.zhuowenli.com/frontend/Responsive-Web-Design.html
+rank:***
+
+web_and webapp development
+http://hutuseng.com/category/web_development
+rank:***
+
+javascript closure and other language
+https://iojs.org/api/cluster.html
+rank:*****
+
+Secrets of a Great API io.js入门（一） - 初识io.js
+http://www.open-open.com/lib/view/open1421284062062.html
+rank:**
+
+一个合格的程序员应该读过哪些书
+http://blog.csdn.net/q969403688/article/details/7884894
+rank:**
+
+我们应该如何去了解JavaScript引擎的工作原理
+http://www.nowamagic.net/librarys/veda/detail/1579
+rank:**
+
+ECMA-262
+http://dmitrysoshnikov.com/
+rank:*
+
+JQuery.Ajax()的data参数类型
+http://www.cnblogs.com/haitao-fan/p/3908973.html
+rank:*
+
+Bootstrap Paginator分页插件使用示例
+http://www.tuicool.com/articles/ZRfuyi
+rank:**
+
+优化bootstrap的jquery分页插件
+http://www.html580.com/10880
+rank:*
+
+3款优秀的移动webAPP网站在线测试工具推荐
+http://www.25xt.com/appdesign/7609.html
+rank:**
+
+使用Ionic构建Hybrid App
+http://my.oschina.net/nosand/blog/294011
+rank:**
+
+好用的select美化
+http://www.w3cfuns.com/article-5599438-1-1.html
+rank:**
+
+jquery UI plugin
+http://www.jq22.com/jqueryUI-1-jq
+rank:***
+
+目冬的笔记(50)
+http://book.douban.com/people/eastwood/annotation/
+rank:*
+
+JavaScript权威指南 第三章 类型 值和变量
+http://m.blog.csdn.net/blog/lxhjh/38983033
+rank:**
+
+《JavaScript权威指南》第六版阅读笔记（一）：JavaScript概述
+http://www.cnblogs.com/artwl/archive/2012/09/19/2694488.html
+rank:*
+
+js正则表达式语法
+http://blog.csdn.net/zaifendou/article/details/5746988
+rank:***
+
+jQuery圆形统计图（百分比）
+http://www.helloweba.com/view-blog-264.html
+rank:*
+
+实时监听输入框值变化的完美方案：oninput & onpropertychange
+http://www.cnblogs.com/lhb25/archive/2012/11/30/oninput-and-onpropertychange-event-for-input.html
+rank:**
+
+very beautiful personal resume 
+http://strml.net/
+rank:*****
+
+前端【学习心得】电商网站前端架构#1 多页面 vs 单页面
+http://www.imooc.com/wenda/detail/235475
+rank:**
+
+谈谈Google Polymer以及Web UI框架的未来
+http://www.csdn.net/article/2013-05-27/2815450-google-polymer
+rank:*
+
+web  kinds of animation about css3
+http://www.w3cplus.com/
+rank:***
+
+Integrating React with gulp
+https://jonsuh.com/blog/integrating-react-with-gulp/
+rank:***
+
+JS/CSS/IMG加载顺序关系之DOMContentLoad
+http://www.alixixi.com/web/a/2014060493448.shtml
+rank:**
+
+webview与js交互
+http://www.cnblogs.com/vanezkw/archive/2012/07/02/2572799.html
+rank:**
+
+使用 CSS3 实现超炫的 Loading（加载）动画效果
+http://www.cnblogs.com/lhb25/p/loading-spinners-animated-with-css3.html
+rank:****
+
+jQuery1.6.1源码分析系列
+http://www.cnblogs.com/nuysoft/archive/2011/11/14/2248023.html
+rank:*****
+
+支付宝Cookie高危漏洞引发的思考
+http://www.cnblogs.com/batsing/p/4860623.html
+rank:*
+
+我们前端是怎么跟设计师沟通的
+http://www.cnblogs.com/jikey/p/4102881.html
+rank:*
+
+我们前端跟后端是怎么合作的
+http://www.cnblogs.com/jikey/p/4118088.html
+rank:*
+
+angular.js 学习资源集合
+http://www.html-js.com/article/Angular-learning-angularjs-learning-resource-collection%203059
+rank:***
+
+简书  javascript
+http://www.jianshu.com/users/MjqJJb/latest_articles
+rank:**
+
+jquery.validate.js表单验证
+http://www.cnblogs.com/si-shaohua/p/3780321.html
+rank:***
+
+CSS解构系列之-新浪页面解构-02
+http://www.cnblogs.com/jikey/p/4259360.html
+rank:***
+
+写给新手程序员的一封信
+http://www.williamlong.info/archives/2700.html
+rank:**
+
+前端效果
+http://www.pkav.net/
+rank：*
+
+当耐特   ---- 超牛前端大牛博客
+http://www.cnblogs.com/iamzhanglei/
+rank：****
+
+使用ajax和history.pushState无刷新改变页面URL
+http://blog.csdn.net/oyiboy/article/details/44258477
+rank：****

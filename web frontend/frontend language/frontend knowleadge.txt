@@ -1,0 +1,88 @@
+//comment
+//link
+//function and rank(for watch five star is the higest grade)
+
+mui开发注意事项
+http://blog.csdn.net/hbcui1984/article/details/42156409
+rank:**
+
+hello mui中的无等待窗体切换是如何实现的
+http://ask.dcloud.net.cn/article/106
+rank:**
+
+frozenui
+http://frozenui.github.io/
+rank:***
+
+foundation
+http://foundation.zurb.com/docs/
+rank:***
+
+前台页面优化全攻略
+http://www.topthink.com/topic/3978.html
+rank:***
+
+初学Foundation之使用Sass和Compass配置Foundation
+http://www.w3cplus.com/css/setting-up-foundation-with-sass-and-compass.html
+rank:**
+
+在Windows下安装Jekyll
+http://fanhongtao.github.io/2012/08/30/install-jekyll-on-windows.html
+rank:**
+
+Compass用法指南
+http://www.ruanyifeng.com/blog/2012/11/compass.html
+rank:**
+
+bower解决js的依赖管理
+http://blog.fens.me/nodejs-bower-intro/
+rank:**
+
+網設必備《Prepros》免再安裝其它軟體即可編譯Jade/SASS
+http://www.minwt.com/webdesign-dev/html/12062.html
+rank:**
+
+体验uglifyjs压缩JS的
+http://www.zhangxinxu.com/wordpress/2013/01/uglifyjs-compress-js/
+rank:***
+
+yui compressor
+http://yui.github.io/yuicompressor/
+rank:***
+
+最接近原生APP体验mui框架
+http://dev.dcloud.net.cn/mui/
+rank:***
+
+jquery document
+http://www.jquery123.com/
+rank:***
+
+一些前端开发的干货
+https://github.com/yyman001/web_js_css_frame
+rank:***
+
+web 资料
+http://www.ziliao1.com/Article/New_1.html
+rank:*
+
+MongoDB资料汇总专题
+http://blog.nosqlfan.com/html/3548.html
+rank:****
+
+mongodb CRUD
+http://docs.mongodb.org/manual/core/crud-introduction/
+rank:**
+
+mongoDB数据库设置用户名及密码
+http://blog.sina.com.cn/s/blog_6e4059a40101b5z7.html
+rank:**
+
+如何成为一个伟大的 JavaScript 程序员
+http://mp.weixin.qq.com/s?__biz=MzA3MTk4NzcwNw==&mid=206900393&idx=1&sn=996cbc2c4cdae0e005a79625a7056618&scene=4#wechat_redirect
+rank:**
+
+smooth coffeescript pdf
+http://autotelicum.github.io/Smooth-CoffeeScript/Smooth%20CoffeeScript%20Web%20Optimized.pdf
+rank:*
+

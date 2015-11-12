@@ -1,0 +1,144 @@
+//comment
+//link
+//function and rank(for watch five star is the higest grade)
+
+write single html and css ,javascript tool
+http://runjs.cn/code
+programe webpage code online for developer
+
+programming for javascript
+https://codefights.com/activity
+rank:***
+
+jquery manual 
+http://www.php100.com/manual/jquery/
+rank:***
+
+angularjs api
+http://docs.angularjs.cn/api
+rank:*
+
+css manual
+http://css.doyoe.com/
+rank:**
+
+javascript 秘密花园
+http://bonsaiden.github.io/JavaScript-Garden/zh/
+rank：*****
+
+jQuery 基本原理
+http://docs.huihoo.com/jquery/jquery-fundamentals/zh-cn/index.html
+rank:****
+
+javascript closure
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures
+rank:***
+
+alloyteam code tank game
+http://codetank.alloyteam.com/
+rank:**
+
+jsfiddle
+http://jsfiddle.net/saguiitay/dAqaX/
+rank:****
+
+write html javascript css code 
+http://codepen.io/anon/pen/KdgwjX
+rank:***
+
+JavaScript 的同源策略
+https://developer.mozilla.org/zh-CN/docs/Web/Security/Same-origin_policy
+rank:***
+
+javascript career introduce
+https://learn.modern-developer.com/
+rank:***
+
+jsbin
+http://jsbin.com/?html,output
+rank:****
+
+牧虎网 各种前后端课程
+http://www.muhu28.com/categoryIndex/nav/43
+rank:***
+
+code css animation 
+http://jeremyckahn.github.io/stylie/
+rank:***
+
+在发布前，检测 Android 和 iOS 应用的问题
+http://infer.liaohuqiu.net/
+rank:*
+
+圆形百分比框
+http://www.jq22.com/jquery-info3039
+rank:***
+
+制作中文字体
+http://www.bootcss.com/p/font-awesome/
+rank：***
+
+git manual
+https://git-scm.com/docs/git-cherry-pick
+rank:****
+
+code website
+http://www.tuicool.com/articles/3eUVRn
+rank:****
+
+css hack
+http://www.w3chtml.com/css3/hack/conditions.html
+rank:***
+
+brackets tool
+http://brackets.io/
+rank:*
+
+npm 
+https://docs.npmjs.com/json
+rank:***
+
+icast lesson
+http://dvd.boxuegu.com/?qq-pf-to=pcqq.group
+rank:*
+
+baidu map api
+http://developer.baidu.com/map/jsdemo.htm#j1_1
+rank：***
+
+immoc lesson
+http://www.imooc.com/course/list
+rank:**
+
+css sprite generator
+http://spritegen.website-performance.org/
+rank:**
+
+json 转换器
+http://www.bejson.com/
+rank:**
+
+vim shortcut key
+http://mp.weixin.qq.com/s?__biz=MzA5NDIzNzY1OQ==&mid=402689224&idx=1&sn=c0888d17bc5dec9a5692cceddc92578f&scene=0#rd
+rank:***
+
+frontend club
+http://f2er.club/
+rank:*****
+
+kinds of frontend tool
+http://www.awesomes.cn/
+rank:***
+
+png,jpg compressor tool
+https://tinypng.com/
+rank:**
+
+frontend knowleadge collection
+http://qianduanfan.com/index.php/topic/show/234
+rank:***
+
+14个代码展示网站
+http://info.9iphp.com/14-code-demo-sites/
+rank：***
+

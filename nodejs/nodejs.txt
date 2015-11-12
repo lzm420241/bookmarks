@@ -1,0 +1,36 @@
+//comment
+//link
+//function and rank(for watch  five star is the higest grade)
+
+basic book for nodejs
+http://nodebeginner.org/index.html
+rank:***
+
+七天学会NodeJS
+http://nqdeng.github.io/7-days-nodejs/#1.6
+rank:***
+
+Markdown 语法说明 (简体中文版)
+http://wowubuntu.com/markdown/
+rank:***
+
+v2ex community
+http://v2ex.com/?tab=hot
+some web and job info rank:*
+
+朴灵 github
+https://github.com/JacksonTian/fks
+rank：****
+
+all web frontend knowledge
+http://segmentfault.com/a/1190000002606145
+rank：****
+
+nodejs实战源码
+http://book.douban.com/review/6672316/
+rank：*
+
+
+
+
+

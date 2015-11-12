@@ -1,0 +1,35 @@
+//comment
+//link
+//function and rank(for watch five star is the higest grade)
+
+css效果测试工具
+http://caibaojian.com/demo/css3/animate/tools.html
+***
+
+矢量图标
+http://www.iconfont.cn/
+**
+
+素材网
+http://www.17sucai.com/
+**
+
+CSS压缩大法：技巧与工具
+http://www.qianduan.net/css-compression-dafa-tips-and-tools/
+***
+
+CSS3实现10种Loading效果
+http://www.imooc.com/article/1218
+***
+
+CSS 代码可读性小贴士
+http://www.qianduan.net/css-code-readable-tips/
+***
+
+如何写出高效整洁的css 代码——css 优化
+http://www.ityuedu.com/article/9876387197/
+***
+
+探究css语法，让csser写出更优美的代码
+http://xiaoho.com/explore-css-syntax-let-csser-write-more-beautiful-code/
+**

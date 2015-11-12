@@ -1,0 +1,156 @@
+//comment
+//link
+//function and rank(for watch  five star is the higest grade)
+
+some vedio for angular js 
+http://pan.baidu.com/s/1hqe0JlU
+
+two vedio for angular
+http://i.youku.com/duankong
+introduce basic angular knowleadge
+
+mui
+http://dcloudio.github.io/mui/components/
+
+Frozen UI
+http://frozenui.github.io/customize.html
+
+bootstrap
+http://www.bootcss.com/
+
+jquery
+http://jquery.com/
+
+W3C WAYS
+http://www.w3cways.com/category/front-frame/page/2
+
+web hybird
+http://ionicframework.com/docs/guide/preface.html
+
+amazeui
+http://amazeui.org/1.x/javascript/fastclick/
+
+phonegap
+http://phonegap.com/
+
+foundation
+http://foundation.zurb.com/
+
+Sea.js
+http://seajs.org/docs/
+
+ligerui
+http://www.ligerui.com/
+http://api.ligerui.com/
+
+UIkit
+http://getuikit.com/
+
+ js框架整理
+http://blog.csdn.net/wl110231/article/details/7838043
+
+2014 年 15 款最棒的 HTML&CSS 框架
+http://www.oschina.net/news/47858/top-15-html-css-framework
+
+20个优秀的前端框架http://www.hcharts.cn/index.php
+http://www.csdn.net/article/2013-02-25/2814245-20-best-front-end-framework
+
+foundation
+http://www.foundcss.com/sidenav
+
+Jingle UI 移动webapp 框架
+https://github.com/shixy/Jingle
+
+highcharts 中文网
+http://www.hcharts.cn/demo/index.php?p=99
+http://www.hcharts.cn/
+
+ichartjs
+http://www.ichartjs.com/
+
+Chart.js 中文文档
+http://www.bootcss.com/p/chart.js/docs/
+
+Node.js v0.10.18 手册 & 文档
+http://nodeapi.ucdok.com/#/api/
+
+Swiper  for slide
+http://www.swiper.com.cn/api/callbacks/2014/1217/91.html
+
+jQuery EasyUI 树形菜单 - 创建带复选框的树形菜单
+http://www.runoob.com/jeasyui/jeasyui-tree-tree4.html
+
+50 个 Bootstrap 插件
+http://www.oschina.net/news/56950/jquery-bootstrap-plugins-for-your-next-projects
+
+underscore
+http://underscorejs.org/#chain
+
+backbone
+http://backbonejs.org/
+
+Gulp开发教程
+http://www.w3ctech.com/topic/134
+
+socket io
+http://socket.io/
+
+WebComponents(important)
+http://webcomponents.org/
+
+Polymer  适用于生产环境
+http://docs.polymerchina.org/1.0/
+
+Polymer 1.0 教程第5篇——事件与消息机制
+http://segmentfault.com/a/1190000003834899
+
+SASS
+http://www.w3cplus.com/blog/tags/302.html
+
+深入理解 JSX
+http://reactjs.cn/react/docs/jsx-in-depth.html
+
+React 入门实例教程
+http://www.ruanyifeng.com/blog/2015/03/react.html
+
+Simple CSS spinners and throbbers made with CSS and minimal HTML markup
+http://www.css-spinners.com/
+
+八款你不得不知的开源前端JS框架
+http://www.csdn.net/article/2014-10-15/2822115
+
+dojo Toolkit
+http://dojotoolkit.org/
+
+KISSY
+http://docs.kissyui.com/
+
+FIS3 , 为你定制的前端工程构建工具
+http://fis.baidu.com/
+
+Tangram
+http://tangram.baidu.com/
+
+TOUCH.js
+http://touch.code.baidu.com/
+
+node.js
+http://nodeapi.ucdok.com/api/util.html
+
+extjs
+http://extjs.org.cn/
+
+React
+https://facebook.github.io/react/tips/initial-ajax.html
+
+React Native React for WebComponents
+https://react.parts/web
+
+ AngularJS
+http://www.apjs.net/
+
+zTree
+http://www.ztree.me/v3/api.php
+
+前端资源分享大杂烩
+http://www.html5jq.com/fe/hulianwangzuixinzixun/2015/0309/73.html
