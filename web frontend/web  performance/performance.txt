@@ -1,24 +1,24 @@
-//comment
+ï»¿//comment
 //link
 //function and rank(for watch five star is the higest grade)
 
-Ç³Ì¸ÒÆ¶¯Ç°¶ËµÄ×î¼ÑÊµ¼ù
+æµ…è°ˆç§»åŠ¨å‰ç«¯çš„æœ€ä½³å®è·µ
 http://www.cnblogs.com/yexiaochai/p/4219523.html
 rank:***
 
-Çáwebapp¿ò¼Üblade
+è½»webappæ¡†æ¶blade
 https://github.com/yexiaochai/cssui
 rank:***
 
-Ç°¶ËÍøÕ¾
+å‰ç«¯ç½‘ç«™
 http://www.w3cfuns.com/
 rank:***
 
-Grunt ĞÂÊÖÒ»ÈÕÈëÃÅ
+Grunt æ–°æ‰‹ä¸€æ—¥å…¥é—¨
 http://yujiangshui.com/grunt-basic-tutorial/
 rank:*
 
-webÇ°¶Ë·½ÃæµÄÓÅĞãRSSµØÖ·
+webå‰ç«¯æ–¹é¢çš„ä¼˜ç§€RSSåœ°å€
 http://www.oschina.net/question/107336_52880
 rank:**
 
@@ -26,7 +26,7 @@ rank:**
 http://sixrevisions.com/javascript/free-javascript-books/
 rank:****
 
-ÊÖ³ÖÉè±¸µã»÷ÏìÓ¦ËÙ¶È£¬Êó±êÊÂ¼şÓëtouchÊÂ¼şµÄÄÇĞ©ÊÂ
+æ‰‹æŒè®¾å¤‡ç‚¹å‡»å“åº”é€Ÿåº¦ï¼Œé¼ æ ‡äº‹ä»¶ä¸touchäº‹ä»¶çš„é‚£äº›äº‹
 http://www.cnblogs.com/yexiaochai/archive/2013/10/19/3377900.html
 rank:***
 
@@ -34,27 +34,27 @@ javascript analysis
 http://segmentfault.com/blog/trigkit4
 rank:*
 
-GitHubÉÏÕûÀíµÄÒ»Ğ©¹¤¾ß
+GitHubä¸Šæ•´ç†çš„ä¸€äº›å·¥å…·
 http://segmentfault.com/q/1010000002404545
 rank:**
 
-Ç°¶ËÖ®ÃÀ£ºGitHubÇ°¶Ë¹¤¾ßÕûÀí»ã×Ü
+å‰ç«¯ä¹‹ç¾ï¼šGitHubå‰ç«¯å·¥å…·æ•´ç†æ±‡æ€»
 http://blog.jobbole.com/34860/
 rank:***
 
-Ç°¶Ë¿ª·¢ÈËÔ±¶¼ÔÚ¹Ø×¢µÄ GitHub ×ÊÔ´
+å‰ç«¯å¼€å‘äººå‘˜éƒ½åœ¨å…³æ³¨çš„ GitHub èµ„æº
 http://www.yyyweb.com/3427.html
 rank:**
 
-ÈçºÎÃæÊÔÇ°¶Ë¹¤³ÌÊ¦£¿
+å¦‚ä½•é¢è¯•å‰ç«¯å·¥ç¨‹å¸ˆï¼Ÿ
 http://www.zhihu.com/question/19568008
 rank:**
 
-Î¬»¤·½±ãµÄÇáÁ¿¼¶UIKITÇ°¶Ë¿ò¼Ü
+ç»´æŠ¤æ–¹ä¾¿çš„è½»é‡çº§UIKITå‰ç«¯æ¡†æ¶
 http://www.shejidaren.com/uikit-front-end-framework.html
 rank:**
 
-ÏìÓ¦Ê½ÍøÒ³Éè¼Æ¼òµ¥ÈëÃÅ
+å“åº”å¼ç½‘é¡µè®¾è®¡ç®€å•å…¥é—¨
 http://www.cnblogs.com/Wayou/p/responsive_design_step_by_step.html
 rank:**
 
@@ -62,11 +62,11 @@ es5 feature introduce
 http://www.nczonline.net/index.html
 rank:*****
 
-³ÉÎªÒ»ÃûÓÅĞãµÄWebÇ°¶Ë¿ª·¢Õß
+æˆä¸ºä¸€åä¼˜ç§€çš„Webå‰ç«¯å¼€å‘è€…
 http://www.infoq.com/cn/news/2015/08/great-front-end-developer
 rank:***
 
-ÏìÓ¦Ê½WEBÉè¼Æ
+å“åº”å¼WEBè®¾è®¡
 http://www.zhuowenli.com/frontend/Responsive-Web-Design.html
 rank:***
 
@@ -78,15 +78,15 @@ javascript closure and other language
 https://iojs.org/api/cluster.html
 rank:*****
 
-Secrets of a Great API io.jsÈëÃÅ£¨Ò»£© - ³õÊ¶io.js
+Secrets of a Great API io.jså…¥é—¨ï¼ˆä¸€ï¼‰ - åˆè¯†io.js
 http://www.open-open.com/lib/view/open1421284062062.html
 rank:**
 
-Ò»¸öºÏ¸ñµÄ³ÌĞòÔ±Ó¦¸Ã¶Á¹ıÄÄĞ©Êé
+ä¸€ä¸ªåˆæ ¼çš„ç¨‹åºå‘˜åº”è¯¥è¯»è¿‡å“ªäº›ä¹¦
 http://blog.csdn.net/q969403688/article/details/7884894
 rank:**
 
-ÎÒÃÇÓ¦¸ÃÈçºÎÈ¥ÁË½âJavaScriptÒıÇæµÄ¹¤×÷Ô­Àí
+æˆ‘ä»¬åº”è¯¥å¦‚ä½•å»äº†è§£JavaScriptå¼•æ“çš„å·¥ä½œåŸç†
 http://www.nowamagic.net/librarys/veda/detail/1579
 rank:**
 
@@ -94,27 +94,27 @@ ECMA-262
 http://dmitrysoshnikov.com/
 rank:*
 
-JQuery.Ajax()µÄdata²ÎÊıÀàĞÍ
+JQuery.Ajax()çš„dataå‚æ•°ç±»å‹
 http://www.cnblogs.com/haitao-fan/p/3908973.html
 rank:*
 
-Bootstrap Paginator·ÖÒ³²å¼şÊ¹ÓÃÊ¾Àı
+Bootstrap Paginatoråˆ†é¡µæ’ä»¶ä½¿ç”¨ç¤ºä¾‹
 http://www.tuicool.com/articles/ZRfuyi
 rank:**
 
-ÓÅ»¯bootstrapµÄjquery·ÖÒ³²å¼ş
+ä¼˜åŒ–bootstrapçš„jqueryåˆ†é¡µæ’ä»¶
 http://www.html580.com/10880
 rank:*
 
-3¿îÓÅĞãµÄÒÆ¶¯webAPPÍøÕ¾ÔÚÏß²âÊÔ¹¤¾ßÍÆ¼ö
+3æ¬¾ä¼˜ç§€çš„ç§»åŠ¨webAPPç½‘ç«™åœ¨çº¿æµ‹è¯•å·¥å…·æ¨è
 http://www.25xt.com/appdesign/7609.html
 rank:**
 
-Ê¹ÓÃIonic¹¹½¨Hybrid App
+ä½¿ç”¨Ionicæ„å»ºHybrid App
 http://my.oschina.net/nosand/blog/294011
 rank:**
 
-ºÃÓÃµÄselectÃÀ»¯
+å¥½ç”¨çš„selectç¾åŒ–
 http://www.w3cfuns.com/article-5599438-1-1.html
 rank:**
 
@@ -122,27 +122,27 @@ jquery UI plugin
 http://www.jq22.com/jqueryUI-1-jq
 rank:***
 
-Ä¿¶¬µÄ±Ê¼Ç(50)
+ç›®å†¬çš„ç¬”è®°(50)
 http://book.douban.com/people/eastwood/annotation/
 rank:*
 
-JavaScriptÈ¨ÍşÖ¸ÄÏ µÚÈıÕÂ ÀàĞÍ ÖµºÍ±äÁ¿
+JavaScriptæƒå¨æŒ‡å— ç¬¬ä¸‰ç«  ç±»å‹ å€¼å’Œå˜é‡
 http://m.blog.csdn.net/blog/lxhjh/38983033
 rank:**
 
-¡¶JavaScriptÈ¨ÍşÖ¸ÄÏ¡·µÚÁù°æÔÄ¶Á±Ê¼Ç£¨Ò»£©£ºJavaScript¸ÅÊö
+ã€ŠJavaScriptæƒå¨æŒ‡å—ã€‹ç¬¬å…­ç‰ˆé˜…è¯»ç¬”è®°ï¼ˆä¸€ï¼‰ï¼šJavaScriptæ¦‚è¿°
 http://www.cnblogs.com/artwl/archive/2012/09/19/2694488.html
 rank:*
 
-jsÕıÔò±í´ïÊ½Óï·¨
+jsæ­£åˆ™è¡¨è¾¾å¼è¯­æ³•
 http://blog.csdn.net/zaifendou/article/details/5746988
 rank:***
 
-jQueryÔ²ĞÎÍ³¼ÆÍ¼£¨°Ù·Ö±È£©
+jQueryåœ†å½¢ç»Ÿè®¡å›¾ï¼ˆç™¾åˆ†æ¯”ï¼‰
 http://www.helloweba.com/view-blog-264.html
 rank:*
 
-ÊµÊ±¼àÌıÊäÈë¿òÖµ±ä»¯µÄÍêÃÀ·½°¸£ºoninput & onpropertychange
+å®æ—¶ç›‘å¬è¾“å…¥æ¡†å€¼å˜åŒ–çš„å®Œç¾æ–¹æ¡ˆï¼šoninput & onpropertychange
 http://www.cnblogs.com/lhb25/archive/2012/11/30/oninput-and-onpropertychange-event-for-input.html
 rank:**
 
@@ -150,11 +150,11 @@ very beautiful personal resume
 http://strml.net/
 rank:*****
 
-Ç°¶Ë¡¾Ñ§Ï°ĞÄµÃ¡¿µçÉÌÍøÕ¾Ç°¶Ë¼Ü¹¹#1 ¶àÒ³Ãæ vs µ¥Ò³Ãæ
+å‰ç«¯ã€å­¦ä¹ å¿ƒå¾—ã€‘ç”µå•†ç½‘ç«™å‰ç«¯æ¶æ„#1 å¤šé¡µé¢ vs å•é¡µé¢
 http://www.imooc.com/wenda/detail/235475
 rank:**
 
-Ì¸Ì¸Google PolymerÒÔ¼°Web UI¿ò¼ÜµÄÎ´À´
+è°ˆè°ˆGoogle Polymerä»¥åŠWeb UIæ¡†æ¶çš„æœªæ¥
 http://www.csdn.net/article/2013-05-27/2815450-google-polymer
 rank:*
 
@@ -166,62 +166,62 @@ Integrating React with gulp
 https://jonsuh.com/blog/integrating-react-with-gulp/
 rank:***
 
-JS/CSS/IMG¼ÓÔØË³Ğò¹ØÏµÖ®DOMContentLoad
+JS/CSS/IMGåŠ è½½é¡ºåºå…³ç³»ä¹‹DOMContentLoad
 http://www.alixixi.com/web/a/2014060493448.shtml
 rank:**
 
-webviewÓëjs½»»¥
+webviewä¸jsäº¤äº’
 http://www.cnblogs.com/vanezkw/archive/2012/07/02/2572799.html
 rank:**
 
-Ê¹ÓÃ CSS3 ÊµÏÖ³¬ìÅµÄ Loading£¨¼ÓÔØ£©¶¯»­Ğ§¹û
+ä½¿ç”¨ CSS3 å®ç°è¶…ç‚«çš„ Loadingï¼ˆåŠ è½½ï¼‰åŠ¨ç”»æ•ˆæœ
 http://www.cnblogs.com/lhb25/p/loading-spinners-animated-with-css3.html
 rank:****
 
-jQuery1.6.1Ô´Âë·ÖÎöÏµÁĞ
+jQuery1.6.1æºç åˆ†æç³»åˆ—
 http://www.cnblogs.com/nuysoft/archive/2011/11/14/2248023.html
 rank:*****
 
-Ö§¸¶±¦Cookie¸ßÎ£Â©¶´Òı·¢µÄË¼¿¼
+æ”¯ä»˜å®Cookieé«˜å±æ¼æ´å¼•å‘çš„æ€è€ƒ
 http://www.cnblogs.com/batsing/p/4860623.html
 rank:*
 
-ÎÒÃÇÇ°¶ËÊÇÔõÃ´¸úÉè¼ÆÊ¦¹µÍ¨µÄ
+æˆ‘ä»¬å‰ç«¯æ˜¯æ€ä¹ˆè·Ÿè®¾è®¡å¸ˆæ²Ÿé€šçš„
 http://www.cnblogs.com/jikey/p/4102881.html
 rank:*
 
-ÎÒÃÇÇ°¶Ë¸úºó¶ËÊÇÔõÃ´ºÏ×÷µÄ
+æˆ‘ä»¬å‰ç«¯è·Ÿåç«¯æ˜¯æ€ä¹ˆåˆä½œçš„
 http://www.cnblogs.com/jikey/p/4118088.html
 rank:*
 
-angular.js Ñ§Ï°×ÊÔ´¼¯ºÏ
+angular.js å­¦ä¹ èµ„æºé›†åˆ
 http://www.html-js.com/article/Angular-learning-angularjs-learning-resource-collection%203059
 rank:***
 
-¼òÊé  javascript
+ç®€ä¹¦  javascript
 http://www.jianshu.com/users/MjqJJb/latest_articles
 rank:**
 
-jquery.validate.js±íµ¥ÑéÖ¤
+jquery.validate.jsè¡¨å•éªŒè¯
 http://www.cnblogs.com/si-shaohua/p/3780321.html
 rank:***
 
-CSS½â¹¹ÏµÁĞÖ®-ĞÂÀËÒ³Ãæ½â¹¹-02
+CSSè§£æ„ç³»åˆ—ä¹‹-æ–°æµªé¡µé¢è§£æ„-02
 http://www.cnblogs.com/jikey/p/4259360.html
 rank:***
 
-Ğ´¸øĞÂÊÖ³ÌĞòÔ±µÄÒ»·âĞÅ
+å†™ç»™æ–°æ‰‹ç¨‹åºå‘˜çš„ä¸€å°ä¿¡
 http://www.williamlong.info/archives/2700.html
 rank:**
 
-Ç°¶ËĞ§¹û
+å‰ç«¯æ•ˆæœ
 http://www.pkav.net/
-rank£º*
+rankï¼š*
 
-µ±ÄÍÌØ   ---- ³¬Å£Ç°¶Ë´óÅ£²©¿Í
+å½“è€ç‰¹   ---- è¶…ç‰›å‰ç«¯å¤§ç‰›åšå®¢
 http://www.cnblogs.com/iamzhanglei/
-rank£º****
+rankï¼š****
 
-Ê¹ÓÃajaxºÍhistory.pushStateÎŞË¢ĞÂ¸Ä±äÒ³ÃæURL
+ä½¿ç”¨ajaxå’Œhistory.pushStateæ— åˆ·æ–°æ”¹å˜é¡µé¢URL
 http://blog.csdn.net/oyiboy/article/details/44258477
-rank£º****
+rankï¼š****

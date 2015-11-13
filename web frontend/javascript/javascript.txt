@@ -1,4 +1,4 @@
-//comment
+ï»¿//comment
 //link
 //function and rank(for watch five star is the higest grade)
 
@@ -6,15 +6,15 @@ for javascript exercise
 http://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php
 **
 
-ä¯ÀÀÆ÷½Å±¾½Ì³Ì
+æµè§ˆå™¨è„šæœ¬æ•™ç¨‹
 http://www.w3school.com.cn/b.asp
 **
 
-Ëã·¨½Ì³Ì
+ç®—æ³•æ•™ç¨‹
 http://58.20.53.45/files/files_upload/content/material_177/COLUMN_9/default.htm
 **
 
-ÍøÒ³ÌØĞ§´úÂëÍøÕ¾
+ç½‘é¡µç‰¹æ•ˆä»£ç ç½‘ç«™
 http://www.csrcode.cn/
 **
 
@@ -26,35 +26,35 @@ boostrap
 http://v3.bootcss.com/css/
 ***
 
-ÍøÒ³ÖĞÓ¢ÎÄÓïÑÔÇĞ»»½â¾ö·½°¸
+ç½‘é¡µä¸­è‹±æ–‡è¯­è¨€åˆ‡æ¢è§£å†³æ–¹æ¡ˆ
 http://www.cnblogs.com/seasons1987/archive/2012/10/09/2716345.html
 **
 
-Áã»ù´¡¿ªÊ¼Ñ§ Web Ç°¶Ë¿ª·¢£¬ÓĞÊ²Ã´½¨ÒéÂğ£¿
+é›¶åŸºç¡€å¼€å§‹å­¦ Web å‰ç«¯å¼€å‘ï¼Œæœ‰ä»€ä¹ˆå»ºè®®å—ï¼Ÿ
 http://www.zhihu.com/question/19637373
 **
 
-´óÅ£½ÌÄãÈçºÎÑ§Ï°WebÇ°¶Ë¿ª·¢
+å¤§ç‰›æ•™ä½ å¦‚ä½•å­¦ä¹ Webå‰ç«¯å¼€å‘
 http://www.imooc.com/wenda/detail/240513
 ***
 
-²¼¾ÖÊµ¼ù
+å¸ƒå±€å®è·µ
 http://www.imooc.com/learn/147
 **
 
-ÍøÒ³Éè¼Æ
+ç½‘é¡µè®¾è®¡
 http://v.163.com/special/opencourse/designfortheweb.html
 **
 
-Ç°¶ËÑ§Ï°Ö®Â·
+å‰ç«¯å­¦ä¹ ä¹‹è·¯
 http://segmentfault.com/blog/6174/1190000000518425
 ***
 
-WEBÇ°¶Ë¹¥³ÇĞ¡Ê¦¸µĞŞÁ¶Ö®µÀ
+WEBå‰ç«¯æ”»åŸå°å¸ˆå‚…ä¿®ç‚¼ä¹‹é“
 http://www.w3cfuns.com/blog-5461894-5403995.html
 ***
 
-ÈçºÎÑ§Ï°Ç°¶Ë
+å¦‚ä½•å­¦ä¹ å‰ç«¯
 http://mrthink.net/tag/%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0%E5%89%8D%E7%AB%AF/
 **
 
@@ -62,15 +62,15 @@ CSS3
 http://www.webclks.com/archives/tag/css3
 ***
 
-webÇ°¶Ë¿ª·¢ÍÆ¼öÔÄ¶ÁÊé¼®¼°ÏÂÔØ
+webå‰ç«¯å¼€å‘æ¨èé˜…è¯»ä¹¦ç±åŠä¸‹è½½
 http://www.blear.cn/426.html
 **
 
-CSS²¼¾Ö ¡ª¡ª´Ódisplay£¬position£¬ floatÊôĞÔÌ¸Æğ
+CSSå¸ƒå±€ â€”â€”ä»displayï¼Œpositionï¼Œ floatå±æ€§è°ˆèµ·
 http://www.cnblogs.com/dolphinX/archive/2012/10/13/2722501.html
 **
 
-CSSÍøÒ³²¼¾ÖÈ«¾«Í¨
+CSSç½‘é¡µå¸ƒå±€å…¨ç²¾é€š
 http://www.poluoluo.com/jzxy/200809/44943.html
 **
 
@@ -86,15 +86,15 @@ jquery mobile
 http://www.lampweb.org/jquerymobile/20/68.html
 ***
 
-Ç°¶Ë¿ª·¢¹æ·¶£¨ÕûÀí°æ£©
+å‰ç«¯å¼€å‘è§„èŒƒï¼ˆæ•´ç†ç‰ˆï¼‰
 http://www.wufangbo.com/qian-duan-gui-fan/
 **
 
-WebÇ°¶Ë
+Webå‰ç«¯
 http://www.jianshu.com/collection/zGogxV
 ***
 
-WEBÇ°¶Ë¿ª·¢
+WEBå‰ç«¯å¼€å‘
 http://www.css88.com/archives/5364
 **
 
@@ -106,63 +106,63 @@ JavaScript
 http://itindex.net/detail/556-javascript
 **
 
-¸ßĞÔÄÜJavaScriptÄ£°åÒıÇæÔ­Àí½âÎö
+é«˜æ€§èƒ½JavaScriptæ¨¡æ¿å¼•æ“åŸç†è§£æ
 http://cdc.tencent.com/?p=5723
 ***
 
-chrome developer tool µ÷ÊÔ¼¼ÇÉ
+chrome developer tool è°ƒè¯•æŠ€å·§
 http://ued.taobao.org/blog/2012/06/debug-with-chrome-dev-tool/
 http://get.ftqq.com/5982.get
 ***
 
-Ç°¶Ë¿ª·¢ÂÛÌ³
+å‰ç«¯å¼€å‘è®ºå›
 http://www.w3cfuns.com/home.php
 **
 
-¹ØÓÚÇ°¶Ë¿ª·¢Ì¸Ì¸µ¥Ôª²âÊÔ
+å…³äºå‰ç«¯å¼€å‘è°ˆè°ˆå•å…ƒæµ‹è¯•
 http://segmentfault.com/a/1190000000317146
 ***
 
-ECMAScript 6 ÈëÃÅ
+ECMAScript 6 å…¥é—¨
 http://es6.ruanyifeng.com/#docs/destructuring
 ***
 
-Ç°¶ËÂÛÌ³
+å‰ç«¯è®ºå›
 
-ÂÒìÀ
+ä¹±ç‚–
 http://www.html-js.com/
 ***
 
-Ç°¶ËÑ§Ï°Ö®Â·
+å‰ç«¯å­¦ä¹ ä¹‹è·¯
 http://segmentfault.com/a/1190000000518425
 **
 
-webstorm¿ì½İ¼ü
+webstormå¿«æ·é”®
 http://www.51xuediannao.com/qd63/index.php/page-2-109-1.html
 **
 
-Ç°¶Ë¿ª·¢ÎÊ´ğÉçÇø
+å‰ç«¯å¼€å‘é—®ç­”ç¤¾åŒº
 http://wenda.reqianduan.com/
 ***
 
-webÇ°¶ËÏà¹Ø²©¿Í
+webå‰ç«¯ç›¸å…³åšå®¢
 http://www.weeeb.cn/old/demo/link.html
 ***
 
-Ç°¶Ë¼¼ÊõÉçÇø
+å‰ç«¯æŠ€æœ¯ç¤¾åŒº
 http://f2e.im/
 **
 
-Ç°¶ËÊÕ¼¯
+å‰ç«¯æ”¶é›†
 https://github.com/hjzheng/front-end-collect
 **
 
-Ç°¶ËÈº×ÊÁÏ
+å‰ç«¯ç¾¤èµ„æ–™
 https://github.com/jsfront/src/blob/master/qq.md
 https://github.com/jsfront/
 **
 
-¹úÍâµÄÇ°¶Ë¿ª·¢ÉçÇøÓĞÄÄĞ©
+å›½å¤–çš„å‰ç«¯å¼€å‘ç¤¾åŒºæœ‰å“ªäº›
 http://segmentfault.com/q/1010000002899648
 **
 
@@ -170,10 +170,10 @@ JavaScript kit
 http://www.javascriptkit.com/
 **
 
-nodejsÉçÇø
+nodejsç¤¾åŒº
 https://cnodejs.org/topic/4fd9fe79f3dc4ab315003dfd
 **
 
-linuxÉçÇø
+linuxç¤¾åŒº
 http://www.linuxidc.com/
 **

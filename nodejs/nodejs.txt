@@ -1,4 +1,4 @@
-//comment
+ï»¿//comment
 //link
 //function and rank(for watch  five star is the higest grade)
 
@@ -6,11 +6,11 @@ basic book for nodejs
 http://nodebeginner.org/index.html
 rank:***
 
-ÆßÌìÑ§»áNodeJS
+ä¸ƒå¤©å­¦ä¼šNodeJS
 http://nqdeng.github.io/7-days-nodejs/#1.6
 rank:***
 
-Markdown Óï·¨ËµÃ÷ (¼òÌåÖĞÎÄ°æ)
+Markdown è¯­æ³•è¯´æ˜ (ç®€ä½“ä¸­æ–‡ç‰ˆ)
 http://wowubuntu.com/markdown/
 rank:***
 
@@ -18,17 +18,17 @@ v2ex community
 http://v2ex.com/?tab=hot
 some web and job info rank:*
 
-ÆÓÁé github
+æœ´çµ github
 https://github.com/JacksonTian/fks
-rank£º****
+rankï¼š****
 
 all web frontend knowledge
 http://segmentfault.com/a/1190000002606145
-rank£º****
+rankï¼š****
 
-nodejsÊµÕ½Ô´Âë
+nodejså®æˆ˜æºç 
 http://book.douban.com/review/6672316/
-rank£º*
+rankï¼š*
 
 
 

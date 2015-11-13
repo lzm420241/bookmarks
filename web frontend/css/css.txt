@@ -1,35 +1,35 @@
-//comment
+ï»¿//comment
 //link
 //function and rank(for watch five star is the higest grade)
 
-cssĞ§¹û²âÊÔ¹¤¾ß
+cssæ•ˆæœæµ‹è¯•å·¥å…·
 http://caibaojian.com/demo/css3/animate/tools.html
 ***
 
-Ê¸Á¿Í¼±ê
+çŸ¢é‡å›¾æ ‡
 http://www.iconfont.cn/
 **
 
-ËØ²ÄÍø
+ç´ æç½‘
 http://www.17sucai.com/
 **
 
-CSSÑ¹Ëõ´ó·¨£º¼¼ÇÉÓë¹¤¾ß
+CSSå‹ç¼©å¤§æ³•ï¼šæŠ€å·§ä¸å·¥å…·
 http://www.qianduan.net/css-compression-dafa-tips-and-tools/
 ***
 
-CSS3ÊµÏÖ10ÖÖLoadingĞ§¹û
+CSS3å®ç°10ç§Loadingæ•ˆæœ
 http://www.imooc.com/article/1218
 ***
 
-CSS ´úÂë¿É¶ÁĞÔĞ¡ÌùÊ¿
+CSS ä»£ç å¯è¯»æ€§å°è´´å£«
 http://www.qianduan.net/css-code-readable-tips/
 ***
 
-ÈçºÎĞ´³ö¸ßĞ§Õû½àµÄcss ´úÂë¡ª¡ªcss ÓÅ»¯
+å¦‚ä½•å†™å‡ºé«˜æ•ˆæ•´æ´çš„css ä»£ç â€”â€”css ä¼˜åŒ–
 http://www.ityuedu.com/article/9876387197/
 ***
 
-Ì½¾¿cssÓï·¨£¬ÈÃcsserĞ´³ö¸üÓÅÃÀµÄ´úÂë
+æ¢ç©¶cssè¯­æ³•ï¼Œè®©csserå†™å‡ºæ›´ä¼˜ç¾çš„ä»£ç 
 http://xiaoho.com/explore-css-syntax-let-csser-write-more-beautiful-code/
 **

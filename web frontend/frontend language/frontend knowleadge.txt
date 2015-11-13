@@ -1,12 +1,12 @@
-//comment
+ï»¿//comment
 //link
 //function and rank(for watch five star is the higest grade)
 
-mui¿ª·¢×¢ÒâÊÂÏî
+muiå¼€å‘æ³¨æ„äº‹é¡¹
 http://blog.csdn.net/hbcui1984/article/details/42156409
 rank:**
 
-hello muiÖĞµÄÎŞµÈ´ı´°ÌåÇĞ»»ÊÇÈçºÎÊµÏÖµÄ
+hello muiä¸­çš„æ— ç­‰å¾…çª—ä½“åˆ‡æ¢æ˜¯å¦‚ä½•å®ç°çš„
 http://ask.dcloud.net.cn/article/106
 rank:**
 
@@ -18,31 +18,31 @@ foundation
 http://foundation.zurb.com/docs/
 rank:***
 
-Ç°Ì¨Ò³ÃæÓÅ»¯È«¹¥ÂÔ
+å‰å°é¡µé¢ä¼˜åŒ–å…¨æ”»ç•¥
 http://www.topthink.com/topic/3978.html
 rank:***
 
-³õÑ§FoundationÖ®Ê¹ÓÃSassºÍCompassÅäÖÃFoundation
+åˆå­¦Foundationä¹‹ä½¿ç”¨Sasså’ŒCompassé…ç½®Foundation
 http://www.w3cplus.com/css/setting-up-foundation-with-sass-and-compass.html
 rank:**
 
-ÔÚWindowsÏÂ°²×°Jekyll
+åœ¨Windowsä¸‹å®‰è£…Jekyll
 http://fanhongtao.github.io/2012/08/30/install-jekyll-on-windows.html
 rank:**
 
-CompassÓÃ·¨Ö¸ÄÏ
+Compassç”¨æ³•æŒ‡å—
 http://www.ruanyifeng.com/blog/2012/11/compass.html
 rank:**
 
-bower½â¾öjsµÄÒÀÀµ¹ÜÀí
+bowerè§£å†³jsçš„ä¾èµ–ç®¡ç†
 http://blog.fens.me/nodejs-bower-intro/
 rank:**
 
-¾WÔO±Ø‚ä¡¶Prepros¡·ÃâÔÙ°²ÑbÆäËüÜ›ów¼´¿É¾×gJade/SASS
+ç¶²è¨­å¿…å‚™ã€ŠPreprosã€‹å…å†å®‰è£å…¶å®ƒè»Ÿé«”å³å¯ç·¨è­¯Jade/SASS
 http://www.minwt.com/webdesign-dev/html/12062.html
 rank:**
 
-ÌåÑéuglifyjsÑ¹ËõJSµÄ
+ä½“éªŒuglifyjså‹ç¼©JSçš„
 http://www.zhangxinxu.com/wordpress/2013/01/uglifyjs-compress-js/
 rank:***
 
@@ -50,7 +50,7 @@ yui compressor
 http://yui.github.io/yuicompressor/
 rank:***
 
-×î½Ó½üÔ­ÉúAPPÌåÑémui¿ò¼Ü
+æœ€æ¥è¿‘åŸç”ŸAPPä½“éªŒmuiæ¡†æ¶
 http://dev.dcloud.net.cn/mui/
 rank:***
 
@@ -58,15 +58,15 @@ jquery document
 http://www.jquery123.com/
 rank:***
 
-Ò»Ğ©Ç°¶Ë¿ª·¢µÄ¸É»õ
+ä¸€äº›å‰ç«¯å¼€å‘çš„å¹²è´§
 https://github.com/yyman001/web_js_css_frame
 rank:***
 
-web ×ÊÁÏ
+web èµ„æ–™
 http://www.ziliao1.com/Article/New_1.html
 rank:*
 
-MongoDB×ÊÁÏ»ã×Ü×¨Ìâ
+MongoDBèµ„æ–™æ±‡æ€»ä¸“é¢˜
 http://blog.nosqlfan.com/html/3548.html
 rank:****
 
@@ -74,11 +74,11 @@ mongodb CRUD
 http://docs.mongodb.org/manual/core/crud-introduction/
 rank:**
 
-mongoDBÊı¾İ¿âÉèÖÃÓÃ»§Ãû¼°ÃÜÂë
+mongoDBæ•°æ®åº“è®¾ç½®ç”¨æˆ·ååŠå¯†ç 
 http://blog.sina.com.cn/s/blog_6e4059a40101b5z7.html
 rank:**
 
-ÈçºÎ³ÉÎªÒ»¸öÎ°´óµÄ JavaScript ³ÌĞòÔ±
+å¦‚ä½•æˆä¸ºä¸€ä¸ªä¼Ÿå¤§çš„ JavaScript ç¨‹åºå‘˜
 http://mp.weixin.qq.com/s?__biz=MzA3MTk4NzcwNw==&mid=206900393&idx=1&sn=996cbc2c4cdae0e005a79625a7056618&scene=4#wechat_redirect
 rank:**
 
