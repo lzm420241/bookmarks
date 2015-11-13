@@ -1,3 +1,4 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 //comment
 //link
 //function and rank(for watch five star is the higest grade)
