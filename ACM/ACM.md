@@ -1,4 +1,4 @@
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ï»¿<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 //comment
 //link
 //function and rank(for watch five star is the higest grade)
@@ -12,7 +12,7 @@
 [hdu acm](http://acm.hdu.edu.cn/)
 ****
 
-[´óÊÓÒ°](http://www.lydsy.com/JudgeOnline/faqs.php)
+[å¤§è§†é‡Ž](http://www.lydsy.com/JudgeOnline/faqs.php)
 ****
 
 [AOJ](http://judge.u-aizu.ac.jp/onlinejudge/)
@@ -33,7 +33,7 @@
 [cf](http://codeforces.com/)
 *****
 
-[°ÙÁ·](http://bailian.openjudge.cn/)
+[ç™¾ç»ƒ](http://bailian.openjudge.cn/)
 **
 
 [c/c++](http://www.cprogramming.com/challenge.html)
