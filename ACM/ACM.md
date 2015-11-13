@@ -24,7 +24,7 @@
 [topcode](http://community.topcoder.com/tc)
 ***
 
-[programming challenge]()http://www.programming-challenges.com/pg.php?page=studenthome
+[programming challenge](http://www.programming-challenges.com/pg.php?page=studenthome)
 **
 
 [codevs](http://codevs.cn/)
